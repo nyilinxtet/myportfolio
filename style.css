@@ -1,0 +1,37 @@
+body{
+    background-color:lightblue;
+    font-family: cambria;
+}
+.s-menu{
+    background-image: url(../istockphoto-1226478932-170667a.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 300px;
+    border-radius: 4px;
+}
+.list{
+    list-style: none;
+}
+.pf-img{
+    width: 250px;
+    height: 230px;
+    opacity: 0.9;
+    border-radius:4px;
+}
+ .envelope{
+    color: rgb(201, 93, 53);
+    font-size: 25px;
+}
+.fb-icon{
+    color: rgb(49, 49, 222);
+    font-size: 25px;
+}
+.is-icon{
+    color: rgb(240, 6, 6);
+    font-size: 25px;
+}
+.yt-icon{
+    color: rgb(243, 14, 14);
+    font-size: 25px;
+}
